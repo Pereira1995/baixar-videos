@@ -1,5 +1,5 @@
-**navegador web:** [opera](https://www.opera.com/pt-br)
+1. use o navegador [opera](https://www.opera.com/pt-br) 
 
-sites que baixam videos:
-- https://cobalt.tools
-- https://ssstwitter.com/pt
+2. sites que baixam videos:
+- https://cobalt.tools [baixa vídeos do YouTube, Instagram, Twitter, etc...]
+- https://ssstwitter.com/pt [baixa vídeos do Twitter apenas]
